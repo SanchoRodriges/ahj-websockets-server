@@ -33,14 +33,9 @@ const wsServer = new WS.Server({
 
 const chat = [
   {
-    username: 'Степан',
+    username: 'Админ',
     time: 1681453675000,
-    message: 'Степан приветствует всех вас!'
-  },
-  {
-    username: 'Михаил',
-    time: 1681453670000,
-    message: 'Михаил приветствует всех вас!'
+    message: 'Ребята, давайте без мата и оскорблений!'
   },
 
 ];
